@@ -3,7 +3,7 @@ import requests
 import time
 
 # --- CONFIGURATION ---
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://mental-health-score-0w1g.onrender.com/predict"
 
 st.set_page_config(
     page_title="Student Mental Health Predictor",
